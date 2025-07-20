@@ -15,6 +15,7 @@
     "@nuxt/ui": "^2.21.0",
     "@nuxtjs/axios": "^5.13.6",
     "@unhead/vue": "^2.0.12",
+    "axios": "^1.10.0",
     "nuxt": "^4.0.0",
     "typescript": "^5.8.3",
     "vue": "^3.5.17",
